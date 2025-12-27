@@ -249,18 +249,18 @@ body {
 }
 
 .slide1 {
-    background-image: url(../Images/hero-img.avif);
+    background-image: url(./Images/hero-img.avif);
     background-position: left;
     animation-delay: 0s;
 }
 
 .slide2 {
-    background-image: url(../Images/hero-img2.avif);
+    background-image: url(./Images/hero-img2.avif);
     animation-delay: 3s;
 }
 
 .slide3 {
-    background-image: url(../Images/hero-img3.avif);
+    background-image: url(./Images/hero-img3.avif);
     animation-delay: 6s;
 }
 
