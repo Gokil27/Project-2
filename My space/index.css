@@ -13,20 +13,7 @@ body {
     color: white;
   background-color: #0f0f14;
 
-  background-image:
-    linear-gradient(
-      to bottom,
-      rgba(15,15,20,0.2),
-      rgba(15,15,20,0.6),
-      rgba(15,15,20,1)
-    ),
-    linear-gradient(
-      180deg,
-      #02040c 0%,   /* dark blue */
-      #191138 30%,  /* blue-purple */
-      rgba(231, 23, 58, 0.518) 90%,  /* purple-pink */
-      #0f0f14 95%   /* black */
-    );
+
 
   background-repeat: no-repeat;
   background-size: 100% 33vh;
