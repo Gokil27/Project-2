@@ -750,8 +750,17 @@ span {
         justify-content: center;
     }
     .hero-content{
-        bottom: 50px;
-        left: 9%;
+        bottom: 70px;
+        left: 5%;
+    }
+    .hero-content4{
+        bottom: 15%;
+    }
+    .hero-content3{
+        left: 15px;
+    }
+    .hover-content{
+        top: 65%;
     }
 }
 
