@@ -612,6 +612,9 @@ span {
         flex-wrap: wrap;
         justify-content: center;
     }
+     .hover-content{
+        top: 65%;
+    }
 
 }
 /* media query- Mini Pc  */
